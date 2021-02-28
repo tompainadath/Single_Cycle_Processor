@@ -1,1 +1,1 @@
-# Single_Cycle_Processor
+# Single Cycle Processor
