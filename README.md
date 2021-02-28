@@ -1,2 +1,2 @@
 # Single Cycle Processor
-![](_Processor Wiring Diagram.png)
+![](_Processor Wiring Diagram.PNG)
